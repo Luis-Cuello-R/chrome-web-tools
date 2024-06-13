@@ -1,0 +1,6 @@
+|Devtools - Simulación de sensores
+|En la pestaña de performance (rendimiento), se podrá ajustar 
+configuraciones como la velocidad de la red y la potencia de la cpu.. 
+|Si vamos a los tres puntos de la esquina superior derecha, abrimos "Más herramientas" 
+y seleccionamos sensores. Podremos simular y obtener datos de algunos 
+sensores que generalmente traen los dispositivos móviles ya sea giroscopio o sensor de geolocalización.
