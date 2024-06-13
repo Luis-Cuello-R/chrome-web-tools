@@ -1,0 +1,40 @@
+Abrir DevTools
+
+    Windows/Linux: Ctrl + Shift + I o F12
+    Mac: Cmd + Option + I o F12
+
+Navegar entre paneles
+
+    Siguiente panel: Ctrl + ] (Windows/Linux) o Cmd + ] (Mac)
+    Panel anterior: Ctrl + [ (Windows/Linux) o Cmd + [ (Mac)
+
+Consola
+
+    Abrir/Alternar Consola: Ctrl + Shift + J (Windows/Linux) o Cmd + Option + J (Mac)
+    Limpiar consola: Ctrl + L (Windows/Linux) o Cmd + K (Mac)
+
+Elementos
+
+    Seleccionar elemento en el DOM: Ctrl + Shift + C (Windows/Linux) o Cmd + Shift + C (Mac)
+    Buscar en el DOM: Ctrl + F (Windows/Linux) o Cmd + F (Mac)
+
+Network
+
+    Recargar sin caché: Ctrl + Shift + R (Windows/Linux) o Cmd + Shift + R (Mac)
+    Iniciar/Detener grabación de red: Ctrl + E (Windows/Linux) o Cmd + E (Mac)
+
+Fuentes (Sources)
+
+    Buscar archivo: Ctrl + P (Windows/Linux) o Cmd + P (Mac)
+    Buscar dentro del archivo: Ctrl + Shift + F (Windows/Linux) o Cmd + Option + F (Mac)
+
+General
+
+    Mostrar barra de comandos: Ctrl + Shift + P (Windows/Linux) o Cmd + Shift + P (Mac)
+    Alternar herramientas del dispositivo (emulación móvil): Ctrl + Shift + M (Windows/Linux) o Cmd + Shift + M (Mac)
+    Abrir la ayuda de DevTools: F1
+
+Atajos de navegación del cursor
+
+    Abrir enlace en nueva pestaña: Ctrl + Click (Windows/Linux) o Cmd + Click (Mac)
+    Navegar a la definición: Ctrl + Click en un archivo de código fuente (Windows/Linux) o Cmd + Click (Mac)
