@@ -1,0 +1,16 @@
+El panel Network es utilizado para asegurarse de que los recursos se descarguen o carguen como se esperaba.
+
+Los casos de uso más comunes para el panel Network son:
+
+Asegurarse de que los recursos se estén cargando o descargando.
+Inspeccionar las propiedades de un recurso individual, como sus encabezados HTTP, contenido, tamaño, etc.
+
+Secciones de Network:
+
+Name: Nombre del archivo
+Status: Estatus del http. En este caso 200 significa OK (Todo bien)
+Type: Tipo de archivo. Por ejemplo: document (html), stylesheet(css), js, png, etc...
+Inialitator: Cuál archivo solicitó a otro archivo. En este caso, el documento html solicitó a todos los demás archivos.
+Size: Tamaño del archivo. Se muestra el tamaño no optimizado y optimizado por el navegador.
+Time: Tiempo total que tarda en descargarse el archivo.
+Waterfall: Tiempo (sección por sección) que le tomó al archivo descargarse.
